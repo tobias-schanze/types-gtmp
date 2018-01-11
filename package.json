@@ -1,0 +1,19 @@
+{
+  "name": "types-gtmp",
+  "version": "0.1.17",
+  "description": "Clientside definitions for GT-MP",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gt5mp/types-gtmp.git"
+  },
+  "author": "GT-MP.net",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://bug.gt-mp.net"
+  },
+  "homepage": "https://gt-mp.net"
+}
