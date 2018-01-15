@@ -1,6 +1,6 @@
 {
   "name": "types-gtmp",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "Clientside definitions for GT-MP",
   "main": "",
   "scripts": {
